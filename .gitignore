@@ -1,0 +1,9 @@
+.com.google.*
+.idea
+**/node_modules/
+out/
+dist/
+docs/
+ts-node/
+*.log
+db.sqlite3
